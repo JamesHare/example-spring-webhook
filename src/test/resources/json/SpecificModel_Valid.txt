@@ -1,0 +1,12 @@
+{
+     "first_name": "James",
+     "last_name": "Hare",
+     "age": 31,
+     "gender": "Male",
+     "favoriteMoviesToGenres": {
+         "Hook": "family",
+         "The Shining": "horror",
+         "Back to the Future": "scifi"
+     },
+     "workLocations": ["Orlando", "Nashville", "Chattanooga"]
+}

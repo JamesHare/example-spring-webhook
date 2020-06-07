@@ -1,0 +1,10 @@
+{
+    "age": 31,
+    "gender": "Male",
+    "favoriteMoviesToGenres": {
+        "Test": "independent",
+        "Fake Movie": "sports",
+        "This one was really bad": "musicals"
+    },
+    "workLocations": ["New York", "Seattle", "New Orleans"]
+}
